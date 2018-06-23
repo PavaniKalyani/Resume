@@ -28,5 +28,11 @@ function fun_education(edu){
     var listItem=document.createElement("li");
     listItem.textContent=edu[i].degree;
     list.appendChild(listItem);
+   var listItem1=document.createElement("p");
+    listItem1.textContent=edu[i].institute;
+    list.appendChild(listItem);
+   var listItem2=document.createElement("p");
+    listItem2.textContent=edu[i].data;
+    list.appendChild(listItem);
   }
 }
