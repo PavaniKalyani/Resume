@@ -30,9 +30,9 @@ function fun_education(edu){
     list.appendChild(listItem);
    var listItem1=document.createElement("p");
     listItem1.textContent=edu[i].institute;
-    list.appendChild(listItem);
+    list.appendChild(listItem1);
    var listItem2=document.createElement("p");
     listItem2.textContent=edu[i].data;
-    list.appendChild(listItem);
+    list.appendChild(listItem2);
   }
 }
