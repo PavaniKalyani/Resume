@@ -1,0 +1,25 @@
+{
+ "basics":{
+   "name":"pavani",
+   "email":"gpavanik@gmail.com",
+   "mobile":"+91-9988998899"
+ },
+
+"education":[
+  {
+    "degree":"B.Tech",
+    "institute":"pscmr",
+     "data":["2015-19","82%"]
+  },
+  {
+    "degree":"intermediate",
+    "institute":"sdmsmk",
+     "data":["2013-15","86%"]
+  },
+  {
+    "degree":"ssc",
+    "institute":"svrmc",
+     "data":["2012-13","9.5gpa"]
+  }
+]
+}
