@@ -8,18 +8,52 @@
 "education":[
   {
     "degree":"B.Tech",
-    "institute":"pscmr",
+    "institute":"PSCMR college Of Engineering and Technology",
      "data":["2015-19","82%"]
   },
   {
-    "degree":"intermediate",
-    "institute":"sdmsmk",
+    "degree":"Intermediate",
+    "institute":"SDMSM Kasala",
      "data":["2013-15","86%"]
   },
   {
-    "degree":"ssc",
-    "institute":"svrmc",
-     "data":["2012-13","9.5gpa"]
+    "degree":"SSC",
+    "institute":"SVRMC High School",
+     "data":["2012-13","9.5GPA"]
+  }
+],
+"career":
+{
+  "info":"To work for an organization which provides me theopportunity to improve my skills and knowledge to growth along with the organization objective."
+},
+
+"achievements":[
+{
+  "name":"Won 1st prize in story writing at sate level competition."
+},
+{
+  "name":"won 2nd prize in paper presentation in Technofest at MVR college."
+},
+{
+  "name":"Semi-Finalist in MOC-2016."
+}
+],
+"skills":[
+  {
+    "name":"Programming Languages",
+    "data":["C","Python"]
+  },
+  {
+    "name":"Databases",
+    "data":["Mysql","Oracle"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["Javascript","Php"]
+  },
+  {
+    "name":"Libraries and Frameworks",
+    "data":["jQuery","codeigniter"]
   }
 ]
 }
